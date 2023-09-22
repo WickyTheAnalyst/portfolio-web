@@ -12,7 +12,11 @@
 - IBM Data Analyst Professional Certificate
 
 ## Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4ec2d0e-8428-484a-85f9-0d251bc19910" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div>
+<div data-iframe-width="170" data-iframe-height="270" data-share-badge-id="e4ec2d0e-8428-484a-85f9-0d251bc19910" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="170" data-iframe-height="270" data-share-badge-id="84433fe9-a4ec-4254-88ee-61a9fc89de21" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="170" data-iframe-height="270" data-share-badge-id="f90f7c9e-68b2-4b03-9b8d-245096e5fe95" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
 ## Work Experience
 **Data Analyst@ S&P Global (_June 2022 - Present_)**
