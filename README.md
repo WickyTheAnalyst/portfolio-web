@@ -11,6 +11,9 @@
 - Google Business Intelligence Specialization
 - IBM Data Analyst Professional Certificate
 
+## Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4ec2d0e-8428-484a-85f9-0d251bc19910" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Work Experience
 **Data Analyst@ S&P Global (_June 2022 - Present_)**
 - Implemented data validation protocols, reducing data anomalies by 60%.
